@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bülent Çivan</h1>
 <h3 align="center">A passionate backend developer from Turkey</h3>
 
-- 🔭 I’m currently working on my senior project **PsychoSupport**
+- 🔭 I’m currently looking for a job
 
 - 🌱 I’m currently learning **react, ai, ml.**
 
