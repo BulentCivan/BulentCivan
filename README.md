@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently looking for a job
 
-- 🌱 I’m currently learning **react, ai, ml.**
+- 🌱 I’m currently learning **frontend**
 
-- 💬 Ask me about **spring.**
+- 💬 Ask me about **spring and asp.net.**
 
 - 📫 How to reach me **bulentcivan7@gmail.com**
 
